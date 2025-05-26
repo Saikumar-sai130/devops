@@ -1,0 +1,181 @@
+    1  git init
+    2  touch f1
+    3  git status
+    4  git status
+    5  git add .
+    6  git clone
+    7  git init
+    8  touch f1
+    9  git status
+   10  clear
+   11  ls -la
+   12  rm -rf .git/
+   13  exit
+   14  ls .git
+   15  cd ../
+   16  ls .git
+   17  ls -la
+   18  find / -name .git
+   19  cd New\ folder/
+   20  git clone https://github.com/sree9206/devops.git
+   21  ls
+   22  cd devops/
+   23  ls
+   24  clear
+   25  touch f22
+   26  git status
+   27  ls -la
+   28  cd ../
+   29  git init
+   30  touch f1
+   31  git add f1
+   32  git status
+   33  touch f3
+   34  git add .
+   35  git status
+   36  touch f10
+   37  git add .
+   38  git status
+   39  git log
+   40  git commit -m "f10
+   41  git commit -m 
+   42  git commit -m "f10"
+   43  git status
+   44  git init
+   45  touch f2
+   46  git status
+   47  git add .
+   48  git status
+   49  git commit -m "f2"
+   50  git config --global user.email "saikumarnugilla121@gmail.com"
+   51  git config --global user.name "
+   52  git config --global user.name "saikumar"
+   53  git commit -m "f2"
+   54  vi
+   55  git branch TS
+   56  git checkout TS
+   57  git checkout TS
+   58  LS
+   59  git checkout master
+   60  git branch INDIA
+   61  git checkout INDIA 
+   62  LS
+   63  git checkout master
+   64  ls
+   65  git log
+   66  git status
+   67  git reset --soft c8d03547b151e68101012b9ec839c1757b2ceec0
+   68  git status
+   69  git init
+   70  touch f1
+   71  git status
+   72  git add .
+   73  git status
+   74  git commit -m "f1"
+   75  git branch ts
+   76  git checkout ts
+   77  ls
+   78  git checkout master
+   79  git branch sai
+   80  ls
+   81  git checkout sai
+   82  ls
+   83  git checkout master
+   84  git log
+   85  git reset --soft 6f2280ffdec218f1e2adb80b7392df9dccdb919a
+   86  git status
+   87  git reset head f1
+   88  git status
+   89  git remote add origin https://github.com/Saikumarchotu07/test.git
+   90  git push -u origin master
+   91  git pull
+   92  ls
+   93  git fetch
+   94  ls
+   95  git merge
+   96  ls
+   97  git checkout ts
+   98  ls
+   99  git status
+  100  echo hello world >> f1
+  101  git status
+  102  git stash
+  103  git status
+  104  git stash pop
+  105  git stash
+  106  git checkout india
+  107  git stash pop
+  108  git commit -am "abcd"
+  109  git status
+  110  ls
+  111  git checkout master
+  112  git checkout origin
+  113  git init
+  114  touch f1
+  115  git status
+  116  git add .
+  117  git status
+  118  git commit -m "1commit"
+  119  git status
+  120  touch f2
+  121  git add .
+  122  git status
+  123  git commit -m "2commit"
+  124  git status
+  125  touch f3
+  126  git status
+  127  git add .
+  128  git status
+  129  git commit -m "3commit"
+  130  git status
+  131  clear
+  132  git branch
+  133  git branch ap
+  134  git branch 
+  135  git checkout ap
+  136  git branch 
+  137  ls
+  138  git  checkout master
+  139  git branch ts
+  140  git branch
+  141  git checkout ts
+  142  git branch
+  143  ls
+  144  git checkout master
+  145  clear
+  146  git log
+  147  git reset --soft  851a1366ec5593289f3388af0f7e341ae4068e8a
+  148  git status
+  149  git reset head f3
+  150  git status
+  151  echo hi >> f3
+  152  git add .
+  153  git status
+  154  git commit -m "4commit"
+  155  git status
+  156  clear
+  157  git log
+  158  git reset --soft  851a1366ec5593289f3388af0f7e341ae4068e8a
+  159  git status
+  160  git reset head f3
+  161  git status
+  162  clear
+  163  git add .
+  164  git commit -m "5commit"
+  165  git status
+  166  git log
+  167  clear
+  168  git reset --soft  851a1366ec5593289f3388af0f7e341ae4068e8a
+  169  git status
+  170  git reset head f3
+  171  git status
+  172  git add .
+  173  git commit -m "6commit"
+  174  git remote add origin https://github.com/Saikumar-sai130/devops.git
+  175  git push -u origin master
+  176  git log
+  177  git config --global user.email "snugilla@gmail.com"
+  178  git config --global user.name "Saikumar-sai130"
+  179  git remote add origin https://github.com/Saikumar-sai130/devops.git
+  180  git push -u origin master
+  181  history >> day2.txt
